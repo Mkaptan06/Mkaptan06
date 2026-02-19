@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Mustafa Kaptan
 
-<!--
-**Mkaptan06/Mkaptan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Aspiring Full-Stack Web Developer  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies
+- HTML
+- CSS
+- JavaScript
+- React (learning)
+- Node.js (learning)
+
+## 📌 Current Focus
+Building full-stack projects and improving problem solving skills.
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/mustafa-kaptan/
