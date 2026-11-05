@@ -1,15 +1,12 @@
 # Hi 👋 I'm Mustafa Kaptan
 
-🎓 Software Engineering Student  
-💻 Aspiring Full-Stack Web Developer  
-
+🎓 Software Engineering Student 
 
 ## 🚀 Technologies
-- HTML
-- CSS
+- Python
+- Java
 - JavaScript
-- React (learning)
-- Node.js (learning)
+- Dart
 
 ## 📌 Current Focus
 Building full-stack projects and improving problem solving skills.
